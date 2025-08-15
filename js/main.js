@@ -634,9 +634,6 @@ document.querySelector('.left-terminal').addEventListener('click', () => {
 
 // Show initial help message
 window.addEventListener('load', () => {
-    // Execute vc command automatically on load
-    executeCommand('vc');
-    
     const welcomeDiv = document.createElement('div');
     welcomeDiv.className = 'output';
     welcomeDiv.innerHTML = `<span class="orange">Welcome to the Autumn Terminal!</span>
