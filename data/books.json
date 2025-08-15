@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alice in Wonderland",
+    "author": "Lewis Carroll",
+    "progress": "100%",
+    "icon": "📚"
+  },
+  {
+    "name": "Looking for Alaska",
+    "author": "John Green",
+    "progress": "100%",
+    "icon": "📚"
+  },
+  {
+    "name": "Broken Money",
+    "author": "Lyn Alden",
+    "progress": "100%",
+    "icon": "📚"
+  },
+  {
+    "name": "The Blocksize War",
+    "author": "Jonathan Bier",
+    "progress": "100%",
+    "icon": "📚"
+  },
+  {
+    "name": "Cryptopians",
+    "author": "Laura Shin",
+    "progress": "100%",
+    "icon": "📚"
+  },
+  {
+    "name": "The Pillars of the Earth",
+    "author": "Ken Follett",
+    "progress": "100%",
+    "icon": "📚"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform",
+    "author": "Vitalik Buterin",
+    "progress": "Read",
+    "icon": "📑"
+  },
+  {
+    "name": "Antisemitism on the rise",
+    "author": "Florian Hartleb",
+    "progress": "Read",
+    "url": "https://eictp.eu/wp-content/uploads/2024/05/EICTP_Research_Papers_Antisemitism_FINAL.pdf",
+    "icon": "📑"
+  },
+  {
+    "name": "Flash Boys 2.0",
+    "author": "Philip Daian et al.",
+    "progress": "Read",
+    "url": "https://arxiv.org/abs/1904.05234",
+    "icon": "📑"
+  },
+  {
+    "name": "Sapphirepunk Manifesto",
+    "author": "Naomiii et al.",
+    "progress": "Read",
+    "url": "https://sapphirepunk.com/",
+    "icon": "📑"
+  },
+  {
+    "name": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "author": "Satoshi Nakamoto",
+    "progress": "Read",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "icon": "📑"
+  }
+]
